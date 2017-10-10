@@ -13,7 +13,7 @@ public class Calculadora{
       System.out.println(num1*num2);
     }
     
-    public double divide Dois Numeros(double num1, double num2){
+    public void imprimeDoisNumerosDivididos(double num1, double num2){
     // System.out.println(num1/num2);
         if(num2 !=0){
             System.out.println(num1/num2);
